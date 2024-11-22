@@ -1,2 +1,2 @@
 # com49-webskills
-Website
+Zdrojovy kod pro stranku, kterou jsem delal na soutezi CzechSkills.
